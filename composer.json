@@ -1,9 +1,7 @@
 {
     "name": "ipkroks/yii2-pecom",
-
     // тип пакета
     "type": "yii2-extension",
-
     "description": "The Imagine integration for the Yii framework",
     "keywords": ["pecom", "pec", "delivery", "cargo"],
     "license": "BSD-3-Clause",
@@ -16,12 +14,10 @@
             "email": "ipkroks@gmail.com"
         }
     ],
-
     // зависимости пакета
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
-
     // указание автозагрузчика классов
     "autoload": {
         "psr-4": {
