@@ -1,24 +1,29 @@
 {
-    "name": "ipkroks/yii2-pecom",
-    "type": "yii2-extension",
-    "description": "The Imagine integration for the Yii framework",
-    "keywords": ["pecom", "pec", "delivery", "cargo"],
-    "license": "BSD-3-Clause",
-    "support": {
-        "issues": "https://github.com/ipkroks/yii2/issues?labels=ext%3Apecom",
-    },
-    "authors": [
-        {
-            "name": "Igor Popov",
-            "email": "ipkroks@gmail.com"
-        }
-    ],
-    "require": {
-        "yiisoft/yii2": "~2.0.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "ipkroks\\pecom\\": ""
-        }
-    }
+   "name":"ipkroks/yii2-pecom",
+   "type":"yii2-extension",
+   "description":"The Imagine integration for the Yii framework",
+   "keywords":[
+      "pecom",
+      "pec",
+      "delivery",
+      "cargo"
+   ],
+   "license":"BSD-3-Clause",
+   "support":{
+      "issues":"https://github.com/ipkroks/yii2/issues"
+   },
+   "authors":[
+      {
+         "name":"Igor Popov",
+         "email":"ipkroks@gmail.com"
+      }
+   ],
+   "require":{
+      "yiisoft/yii2":"~2.0.0"
+   },
+   "autoload":{
+      "psr-4":{
+         "ipkroks\\pecom\\":""
+      }
+   }
 }
