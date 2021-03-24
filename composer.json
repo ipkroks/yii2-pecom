@@ -1,7 +1,7 @@
 {
    "name":"ipkroks/yii2-pecom",
    "type":"yii2-extension",
-   "description":"The Imagine integration for the Yii framework",
+   "description":"Pec Yii2 framework",
    "keywords":[
       "pecom",
       "pec",
